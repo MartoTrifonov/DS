@@ -1,0 +1,42 @@
+Bug ID		DS1215454
+Name		Download Button
+Priority	P1 
+Severity	S3
+Description	Download button does not work when clicked.
+Steps to reproduce	
+		Step1: go to https://mind-wend-913065.framer.app/
+		Step2: scroll down to "Multiple pages with unique content"
+		Step3: Click on the Download button
+		Expected Result: Downloading beggins
+		Actual Result: Button is unclickable
+Attachment	https://app.birdeatsbug.com/sessions/phiGy1h63FTl7GEQx8TrsV-3QFrfHrspYs-H9RlrBtFX
+Status		
+Component	Downloads
+Version/Build number Version 2.3
+Environment	Chrome Version 112.0.5615.86 (Official Build) (64-bit)
+Comments	
+Date Created	13.04.2023
+Author		Martin Trifonov
+Audit Log	
+
+
+Bug ID		DS1215455
+Name		Subscrioptions
+Priority	P1 
+Severity	S1
+Description	Subscribe buttons doen't work when clicked
+Steps to reproduce	
+		Step1: go to https://mind-wend-913065.framer.app/pricing
+		Step2: scroll down untill you see the subscire plans
+		Step3: Click on the Subscribe button
+		Expected Result: Redirect to payment method
+		Actual Result: Button is unclickable
+Attachment	https://app.birdeatsbug.com/sessions/nhECMe9MHD7oKOfG9W5bNph0VuSDaXDmRts0jbsQXfxw
+Status		
+Component	Pricing
+Version/Build number Version 2.3
+Environment	Chrome Version 112.0.5615.86 (Official Build) (64-bit)
+Comments	
+Date Created	13.04.2023
+Author		Martin Trifonov
+Audit Log
